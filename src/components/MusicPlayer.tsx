@@ -6,7 +6,7 @@ const MusicPlayer: React.FC = () => {
   const audioRef = useRef<HTMLAudioElement>(null);
 
   // Using a romantic birthday instrumental from a free source
-  const audioSrc = "https://freefy.app/track/2824236348/raabta-kehte-hain-khuda-ne";
+  const audioSrc = "music.mp3";
 
   useEffect(() => {
     // Auto-play when component mounts (with user gesture)
