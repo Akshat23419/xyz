@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 const messages = [
-  { text: "You are my worlc", emoji: "🌎" },
+  { text: "You are my world", emoji: "🌎" },
   { text: "My reason to smile", emoji: "😊" },
   { text: "Forever and always", emoji: "💖" }
 ];
